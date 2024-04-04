@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 16 Dec 2023 13:13:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Apr 2024 22:07:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/02/android-chrome-192x192-1-150x150.png</url>
@@ -28,22 +28,256 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello world!</title>
-		<link>/2023/12/16/hello-world/</link>
-					<comments>/2023/12/16/hello-world/#comments</comments>
+		<title>冰凍北半球 &#8211; 極地渦旋</title>
+		<link>/2021/03/07/hji/</link>
+					<comments>/2021/03/07/hji/#respond</comments>
 		
 		<dc:creator><![CDATA[hwlai-root]]></dc:creator>
-		<pubDate>Sat, 16 Dec 2023 13:13:49 +0000</pubDate>
+		<pubDate>Sun, 07 Mar 2021 21:30:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=227</guid>
+
+					<description><![CDATA[前陣子的新聞都在報導極地渦旋（polar vortex）侵襲北半球，歐洲北美和亞洲許多地方都在強烈冷氣團的籠罩下😰 報導的內容大部分是解釋由於平流層驟暖（sudden stratospheric warming）、渦旋減弱，結果極區冷空氣侵襲南方（如右下圖），這樣的氣流與氣壓的變動關係又稱為北極振盪（Arctic Oscillation）。 來源：https://www.noaa.gov/multimedia/infographic/science-behind-polar-vortex-you-might-want-to-put-on-sweater 那究竟什麼是極地渦旋？不是說全球暖化嗎？怎麼還這麼冷呢？ 要了解極地上方的冷氣，我們就必須先從大氣環流開始說起，赤道區域長年受到太陽輻射加熱而極區接受到的輻射能量較少，以我們所居住的北半球來說從南到北形成了溫度梯度，這種感覺不用說是赤道北極，就連往來台北高雄都應該會有不知道要穿幾件衣服的感觸。我們從小就學過因為密度大小不同所以暖空氣上升、冷空氣下降，所以從長時間的平均狀態來看，從赤道到北極可以形成三個環流圈圈（下圖），也就是所謂的三胞環流。在極區內環境比較冷，所以冷空氣自然而然就下降，而且在近地表輻合形成高壓（空氣密度高=&#62;壓力大），而高空空氣密度低就成為低氣壓，我們聽到的極地渦旋就是這個位於極區上方平流層中的超大一團低氣壓冷空氣，受到科氏力影響而呈逆時鐘旋轉。 來源：https://www.s-cool.co.uk/a-level/geography/introduction-to-weather-and-climate/revise-it/atmospheric-circulation-and-motion 在極區和中緯度的交界處有很大的南北溫度差，這樣的溫度差在近地面會形成極鋒（polar front），在高空處則會產生由西向東的極鋒噴流（polar jet），如果想知道更詳細的成因請去路上攔截一位大氣系學生讓他推導大氣動力學之熱力風平衡（thermal wind balance）公式，這一條高空噴流（jet stream；如下圖）的速度通常在時速100-200公里，當然偶爾會更快，噴流除了可以將極區冷空氣鎖在極區上方之外，也會引導一些天氣系統，像是氣旋的行進方向，對於天氣變化有很重要的影響。 來源：https://scijinks.gov/jet-stream/ 經過上述的過程，我們現在有了一個在極區的冷冷的平流層低氣壓和一個噴流，在正常的冬天，高空噴流會將冷空氣鎖在極區，所以冷氣會穩定地待在極區。但是，問題就在有時候冷空氣會大量跑出來，這時候就要來介紹許多新聞都在說的平流層驟暖。 驟暖的機制很複雜，這邊介紹一個造成驟暖基本的理論，許多大氣現象可以用大大小小長長短短的波動來形容，其中一種行星尺度的波（planetary wave；波長約從數千到上萬公里）稱為：羅士比波（Rossby wave），羅士比波是由超大尺度的擾動（譬如海陸溫差）所產生，羅士比波平常一直存在大氣波動中，只有這種超大具有很強能量的波可以在某些時候傳播到極區上空、擾亂平流層渦旋，甚至讓渦旋反向（順時鐘）旋轉。 被擾亂的渦旋強度減弱，渦旋逆時鐘旋轉而造成的上升氣流也會減弱，此時高層冷空氣下沉、在下沉過程中絕熱升溫，這個升溫的結果就造成原本的南北溫度差異減弱（北邊不這麼冷了），而由溫度差所形成的噴流也會因此而減弱，減弱後的噴流變得很不穩定、變成波浪狀，也不再有這麼強大的能力鎖住極區冷空氣，冷空氣因此開始外散到更南邊的地方，同時波浪形狀的噴流在南向的路途中也幫冷空氣的南移推了一把，這些從冰天雪地來的冷空氣就此冰凍了北半球。 來源：https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/wind/sudden-stratospheric-warming 後記 在寫作的過程中，發現有很多理論並不是很直白或容易理解，所以選擇了比較易懂的寫法來解釋，歡迎各路朋友專家們提供建議及想法🙋 參考與延伸資料： Sudden Stratospheric Warming (Met Office) How sudden stratospheric warming affects the whole atmosphere (EOS) Arctic Oscillation (Wikipedia) Extreme winter weather hits USA, Europe (WMO) Jet stream (National Geographic) On [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>前陣子的新聞都在報導極地渦旋（polar vortex）侵襲北半球，歐洲北美和亞洲許多地方都在強烈冷氣團的籠罩下<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f630.png" alt="😰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 報導的內容大部分是解釋由於平流層驟暖（sudden stratospheric warming）、渦旋減弱，結果極區冷空氣侵襲南方（如右下圖），這樣的氣流與氣壓的變動關係又稱為北極振盪（Arctic Oscillation）。</p>
+
+
+
+<span id="more-227"></span>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-us.googleusercontent.com/s7yxb5PC0NFHEJhlmXTKAdoKFg4BUv6SAmlosIFGpAZJ82rIoZoUwYVHv_aqeVa8mewGQokN82LJ8eFFrKpudgZ2yQCxFw9zg9vCbkhXU0TReHHkRv3YhO3G6MfkkukEYMDohbc1ftRgEdQUBW3ZbJI" alt=""/></figure>
+
+
+
+<p class="has-small-font-size">來源：https://www.noaa.gov/multimedia/infographic/science-behind-polar-vortex-you-might-want-to-put-on-sweater</p>
+
+
+
+<p><strong>那究竟什麼是極地渦旋？不是說全球暖化嗎？怎麼還這麼冷呢？</strong></p>
+
+
+
+<ul>
+<li><strong>三胞環流</strong></li>
+</ul>
+
+
+
+<p>要了解極地上方的冷氣，我們就必須先從大氣環流開始說起，赤道區域長年受到太陽輻射加熱而極區接受到的輻射能量較少，以我們所居住的北半球來說從南到北形成了溫度梯度，這種感覺不用說是赤道北極，就連往來台北高雄都應該會有不知道要穿幾件衣服的感觸。我們從小就學過因為密度大小不同所以暖空氣上升、冷空氣下降，所以從長時間的平均狀態來看，從赤道到北極可以形成三個環流圈圈（下圖），也就是所謂的三胞環流。在極區內環境比較冷，所以冷空氣自然而然就下降，而且在近地表輻合形成高壓（空氣密度高=&gt;壓力大），而高空空氣密度低就成為低氣壓，我們聽到的極地渦旋就是這個位於極區上方平流層中的超大一團低氣壓冷空氣，受到科氏力影響而呈逆時鐘旋轉。</p>
+
+
+
+<p class="has-small-font-size">來源：https://www.s-cool.co.uk/a-level/geography/introduction-to-weather-and-climate/revise-it/atmospheric-circulation-and-motion</p>
+
+
+
+<ul>
+<li><strong>高空噴流</strong></li>
+</ul>
+
+
+
+<p>在極區和中緯度的交界處有很大的南北溫度差，這樣的溫度差在近地面會形成極鋒（polar front），在高空處則會產生由西向東的極鋒噴流（polar jet），如果想知道更詳細的成因請去路上攔截一位大氣系學生讓他推導大氣動力學之熱力風平衡（thermal wind balance）公式，這一條高空噴流（jet stream；如下圖）的速度通常在時速100-200公里，當然偶爾會更快，噴流除了可以將極區冷空氣鎖在極區上方之外，也會引導一些天氣系統，像是氣旋的行進方向，對於天氣變化有很重要的影響。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-us.googleusercontent.com/gHHUbE19Gpe0jNCxuaZBa9lsnAdn7od4Y2Oq71t7aPtDVyDhv6sxbluOfjd9-yZ4W-58GWn9-q9GO5wOUPmtrduQccaxiJiJweu2h4SJhzlGLsh33YrB9EvXfMMuYwMA-sVdCPaALLEWxl1OQUI-iBs" alt=""/></figure>
+
+
+
+<p class="has-small-font-size">來源：https://scijinks.gov/jet-stream/</p>
+
+
+
+<ul>
+<li><strong>平流層驟暖</strong></li>
+</ul>
+
+
+
+<p>經過上述的過程，我們現在有了一個在極區的冷冷的平流層低氣壓和一個噴流，在正常的冬天，高空噴流會將冷空氣鎖在極區，所以冷氣會穩定地待在極區。但是，問題就在有時候冷空氣會大量跑出來，這時候就要來介紹許多新聞都在說的平流層驟暖。</p>
+
+
+
+<p>驟暖的機制很複雜，這邊介紹一個造成驟暖基本的理論，許多大氣現象可以用大大小小長長短短的波動來形容，其中一種行星尺度的波（planetary wave；波長約從數千到上萬公里）稱為：羅士比波（Rossby wave），羅士比波是由超大尺度的擾動（譬如海陸溫差）所產生，羅士比波平常一直存在大氣波動中，只有這種超大具有很強能量的波可以在某些時候傳播到極區上空、擾亂平流層渦旋，甚至讓渦旋反向（順時鐘）旋轉。</p>
+
+
+
+<p>被擾亂的渦旋強度減弱，渦旋逆時鐘旋轉而造成的上升氣流也會減弱，此時高層冷空氣下沉、在下沉過程中絕熱升溫，這個升溫的結果就造成原本的南北溫度差異減弱（北邊不這麼冷了），而由溫度差所形成的噴流也會因此而減弱，減弱後的噴流變得很不穩定、變成波浪狀，也不再有這麼強大的能力鎖住極區冷空氣，冷空氣因此開始外散到更南邊的地方，同時波浪形狀的噴流在南向的路途中也幫冷空氣的南移推了一把，這些從冰天雪地來的冷空氣就此冰凍了北半球。</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="What is a Sudden Stratospheric Warming and how does it work?" width="500" height="281" src="https://www.youtube.com/embed/2YaLbJIycVE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-small-font-size">來源：https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/wind/sudden-stratospheric-warming</p>
+
+
+
+<p>後記</p>
+
+
+
+<p>在寫作的過程中，發現有很多理論並不是很直白或容易理解，所以選擇了比較易懂的寫法來解釋，歡迎各路朋友專家們提供建議及想法<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f64b.png" alt="🙋" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>參考與延伸資料：</p>
+
+
+
+<p><a href="https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/wind/sudden-stratospheric-warming" data-type="link" data-id="https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/wind/sudden-stratospheric-warming" target="_blank" rel="noreferrer noopener">Sudden Stratospheric Warming (Met Office)</a></p>
+
+
+
+<p><a href="https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere" target="_blank" rel="noreferrer noopener">How sudden stratospheric warming affects the whole atmosphere (EOS)</a></p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Arctic_oscillation" target="_blank" rel="noreferrer noopener">Arctic Oscillation (Wikipedia)</a></p>
+
+
+
+<p><a href="https://www.preventionweb.net/news/extreme-winter-weather-hits-usa-europe" target="_blank" rel="noreferrer noopener">Extreme winter weather hits USA, Europe (WMO)</a></p>
+
+
+
+<p><a href="https://www.nationalgeographic.com/environment/article/jet-stream" target="_blank" rel="noreferrer noopener">Jet stream (National Geographic)</a></p>
+
+
+
+<p><a href="https://www.climate.gov/news-features/blogs/enso/sudden-stratospheric-warming-and-polar-vortex-early-2021" target="_blank" rel="noreferrer noopener">On the sudden stratospheric warming and polar vortex of early 2021 (NOAA)</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/03/07/hji/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Picture a Scientist &#8211; 女科學家的玻璃天花板</title>
+		<link>/2021/02/07/hello-world/</link>
+					<comments>/2021/02/07/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[hwlai-root]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 12:13:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://hans.zumesite.com/amy/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[今天要來介紹一部紀錄片 Picture a Scientist 現在請你閉上眼睛想像一下科學家應該是什麼樣子 請問你剛剛所想到的科學家是一位女性在野外探勘嗎？或者是一位女性正在實驗室修機械？ 最近在各國的學界朋友們不約而同收到各種邀約觀賞這部紀錄片，各大學與研究單位都在播放和探討這個議題，近數十年來女性科學家逐漸增加，大家可能會覺得在上大學的時候班上男女比例可能接近一半一半，看起來似乎滿平等的？但是從研究生、博士生、博後到最後成為教授的路上，女性比例不斷的減少，而且這樣的現象已持續十幾二十年，是什麼原因讓女生在追求當科學家的路上不斷的退出體制？ 以下包含紀錄片些微內容和心得﹝雷? ﹞ 性別議題非常廣大，從幼童接受到的性別教育到後天的整個社會體制，每個環節當中都有許多細節與議題值得拿出來討論，這邊我們只針對紀錄片的內容做一個大概的介紹跟提出一些想法。 這部紀錄片主要講述女性在追求成為科學家的過程中可能遇到一些性別歧視。 歧視可能是各種不尊重對方的肢體行為，這邊指的是任何讓你感到錯愕或不適的行為[1] 。 可能是明顯的對著女生說”女生數理就是不行”、”跟女生出野外好麻煩會拖進度”、”女生讀這麼高衝事業怎麼顧家庭”。 也有可能是隱晦的譬如比較相信具有男性特質的人說的話、巧妙的忽視妳的提問或需求、得到比較少的資源像是實驗室大小或薪水、拿到較少的學術計畫或面試機會﹝紀錄片秀出有數據統計﹞、派你去做一些跟專業不相關的事情同時你的同級男性同事被派去當專業門面﹝論性別而不論能力﹞。 除此之外，我想大家都多少聽過一些調查像是把一份履歷寄給數個學校/公司，在這些履歷中只有性別欄填入不同性別，而填入&#8221;男性&#8221;的履歷被接受、信任或者看好的比例遠高於&#8221;女性&#8221;的履歷。 在眾多的爭議之下，在過去決策者往往可能就兩手一攤表示：這制度行之有年，你一直找麻煩是你問題太多。 對於站出來對抗這個體制的女性，有一些黯然離開學術，有些只能繼續在夾縫中求生存，有些奮力一搏而獲得其他人的認同，這些女性幾乎都是破釜沉舟抱著最壞的打算來將這個不平等的事實公諸於世[2] 。 在前輩們辛苦的付出下，平權概念在這幾年有了實際的成效，各國各校各單位開始討論或擬訂規範像是同工同酬、伴侶共同分擔育嬰假、協助女性在科學界生存下去並且有更多的機會往上爬，越來越多女性站上了教授或科學家的位置。 然而仍有許多聲音控訴著女性是因為靠著身為&#8221;女性&#8221;的身分獲得了好處，靠加分站上高峰或獲得計畫及資源，而無視他們本身就非常有實力的事實，這些社會上不同的聲音都一再的顯示，我們仍需要溝通，仍需要好好地傳達女性的需求並讓所有人都正視這個議題。 就算這個議題被討論了這麼久，大家也意識到真正會加入討論的，其實也就是那些本來就已經在關注這個議題的人，在這同溫層之外，還有許多人選擇無視，也有一些人是還沒有認真地去思考過這個議題或去反思他們所見過的情境，該如何將多數人納入討論也是個迫切的議題。 女性可以怎麼做 有這麼多前輩為我們打拚天下，我們當然要繼續努力、維持並改善現有的環境，並且提拔下一個世代，我們希望女性們可以在一個更友善的環境下努力成為小時候嚮往的目標。另一方面，你也可以回想自己是否遇過性別歧視，或者自己是否有意識到被性別歧視，當時是怎麼處理跟回應的呢？現在的你，又會怎麼做呢？歡迎留言告訴我們！ 男性可以怎麼做 在這個議題之下，部分男性常被批為無做為而掀起網路筆戰，但如同紀錄片裡所提到，他們並不是真的不做或反對這個議題，而是來沒想過這件事情會如何對女性造成傷害，或者他們看到女性表面上淡然一笑而以為女生已經把事情處理好了。男性可以想想哪些事情或情境是以前沒有特別注意但其實性別歧視正在發生，譬如有些人特別喜歡開女生玩笑、同級層的女性得到比你少的待遇或資源，多關心身邊女性、一起為平權發聲，我們可以讓整個學界更美好。 [1] 影片中舉例將近20年前的南極科學考察性騷擾案件，當年的女學生一直等到最近拿到終生教職才揭發並且勇於對抗那位在該領域名聲響亮的男性學者。 [2] 影片中舉例，20幾年前一位MIT女性教授蒐集系上對女性不平等的待遇，並聯合當時學院內的其他女性教授一同向校長發聲，最後得到校方認同並且使學界正視這個議題。 Picture a Scientist official website]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>今天要來介紹一部紀錄片 Picture a Scientist</p>
+
+
+
+<p>現在請你閉上眼睛想像一下科學家應該是什麼樣子</p>
+
+
+
+<span id="more-1"></span>
+
+
+
+<p>請問你剛剛所想到的科學家是一位女性在野外探勘嗎？或者是一位女性正在實驗室修機械？</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Picture a Scientist - trailer" src="https://player.vimeo.com/video/405966332?dnt=1&amp;app_id=122963" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write"></iframe>
+</div><figcaption class="wp-element-caption">Picture a Scientist &#8211; trailer</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>最近在各國的學界朋友們不約而同收到各種邀約觀賞這部紀錄片，各大學與研究單位都在播放和探討這個議題，近數十年來女性科學家逐漸增加，大家可能會覺得在上大學的時候班上男女比例可能接近一半一半，看起來似乎滿平等的？但是從研究生、博士生、博後到最後成為教授的路上，女性比例不斷的減少，而且這樣的現象已持續十幾二十年，是什麼原因讓女生在追求當科學家的路上不斷的退出體制？</p>
+
+
+
+<p>以下包含紀錄片些微內容和心得﹝雷? ﹞</p>
+
+
+
+<p>性別議題非常廣大，從幼童接受到的性別教育到後天的整個社會體制，每個環節當中都有許多細節與議題值得拿出來討論，這邊我們只針對紀錄片的內容做一個大概的介紹跟提出一些想法。</p>
+
+
+
+<p>這部紀錄片主要講述女性在追求成為科學家的過程中可能遇到一些性別歧視。</p>
+
+
+
+<p>歧視可能是各種不尊重對方的肢體行為，這邊指的是任何讓你感到錯愕或不適的行為[1] 。</p>
+
+
+
+<p>可能是明顯的對著女生說”女生數理就是不行”、”跟女生出野外好麻煩會拖進度”、”女生讀這麼高衝事業怎麼顧家庭”。</p>
+
+
+
+<p>也有可能是隱晦的譬如比較相信具有男性特質的人說的話、巧妙的忽視妳的提問或需求、得到比較少的資源像是實驗室大小或薪水、拿到較少的學術計畫或面試機會﹝紀錄片秀出有數據統計﹞、派你去做一些跟專業不相關的事情同時你的同級男性同事被派去當專業門面﹝論性別而不論能力﹞。</p>
+
+
+
+<p>除此之外，我想大家都多少聽過一些調查像是把一份履歷寄給數個學校/公司，在這些履歷中只有性別欄填入不同性別，而填入&#8221;男性&#8221;的履歷被接受、信任或者看好的比例遠高於&#8221;女性&#8221;的履歷。</p>
+
+
+
+<p>在眾多的爭議之下，在過去決策者往往可能就兩手一攤表示：這制度行之有年，你一直找麻煩是你問題太多。</p>
+
+
+
+<p>對於站出來對抗這個體制的女性，有一些黯然離開學術，有些只能繼續在夾縫中求生存，有些奮力一搏而獲得其他人的認同，這些女性幾乎都是破釜沉舟抱著最壞的打算來將這個不平等的事實公諸於世[2] 。</p>
+
+
+
+<p>在前輩們辛苦的付出下，平權概念在這幾年有了實際的成效，各國各校各單位開始討論或擬訂規範像是同工同酬、伴侶共同分擔育嬰假、協助女性在科學界生存下去並且有更多的機會往上爬，越來越多女性站上了教授或科學家的位置。</p>
+
+
+
+<p>然而仍有許多聲音控訴著女性是因為靠著身為&#8221;女性&#8221;的身分獲得了好處，靠加分站上高峰或獲得計畫及資源，而無視他們本身就非常有實力的事實，這些社會上不同的聲音都一再的顯示，我們仍需要溝通，仍需要好好地傳達女性的需求並讓所有人都正視這個議題。</p>
+
+
+
+<p>就算這個議題被討論了這麼久，大家也意識到真正會加入討論的，其實也就是那些本來就已經在關注這個議題的人，在這同溫層之外，還有許多人選擇無視，也有一些人是還沒有認真地去思考過這個議題或去反思他們所見過的情境，該如何將多數人納入討論也是個迫切的議題。</p>
+
+
+
+<p>女性可以怎麼做</p>
+
+
+
+<p>有這麼多前輩為我們打拚天下，我們當然要繼續努力、維持並改善現有的環境，並且提拔下一個世代，我們希望女性們可以在一個更友善的環境下努力成為小時候嚮往的目標。另一方面，你也可以回想自己是否遇過性別歧視，或者自己是否有意識到被性別歧視，當時是怎麼處理跟回應的呢？現在的你，又會怎麼做呢？歡迎留言告訴我們！</p>
+
+
+
+<p>男性可以怎麼做</p>
+
+
+
+<p>在這個議題之下，部分男性常被批為無做為而掀起網路筆戰，但如同紀錄片裡所提到，他們並不是真的不做或反對這個議題，而是來沒想過這件事情會如何對女性造成傷害，或者他們看到女性表面上淡然一笑而以為女生已經把事情處理好了。男性可以想想哪些事情或情境是以前沒有特別注意但其實性別歧視正在發生，譬如有些人特別喜歡開女生玩笑、同級層的女性得到比你少的待遇或資源，多關心身邊女性、一起為平權發聲，我們可以讓整個學界更美好。</p>
+
+
+
+<p class="has-small-font-size">[1] 影片中舉例將近20年前的南極科學考察性騷擾案件，當年的女學生一直等到最近拿到終生教職才揭發並且勇於對抗那位在該領域名聲響亮的男性學者。</p>
+
+
+
+<p class="has-small-font-size">[2] 影片中舉例，20幾年前一位MIT女性教授蒐集系上對女性不平等的待遇，並聯合當時學院內的其他女性教授一同向校長發聲，最後得到校方認同並且使學界正視這個議題。</p>
+
+
+
+<p><a href="https://www.pictureascientist.com/" data-type="link" data-id="https://www.pictureascientist.com/" target="_blank" rel="noreferrer noopener">Picture a Scientist official website</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/12/16/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>/2021/02/07/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
