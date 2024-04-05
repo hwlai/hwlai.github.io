@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 04 Apr 2024 22:07:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Apr 2024 21:20:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>冰凍北半球 &#8211; 極地渦旋</title>
-		<link>/2021/03/07/hji/</link>
-					<comments>/2021/03/07/hji/#respond</comments>
+		<link>/2021/03/07/polarvortex/</link>
+					<comments>/2021/03/07/polarvortex/#respond</comments>
 		
 		<dc:creator><![CDATA[hwlai-root]]></dc:creator>
 		<pubDate>Sun, 07 Mar 2021 21:30:00 +0000</pubDate>
@@ -154,15 +154,15 @@
 <p><a href="https://www.climate.gov/news-features/blogs/enso/sudden-stratospheric-warming-and-polar-vortex-early-2021" target="_blank" rel="noreferrer noopener">On the sudden stratospheric warming and polar vortex of early 2021 (NOAA)</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/03/07/hji/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/03/07/polarvortex/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Picture a Scientist &#8211; 女科學家的玻璃天花板</title>
-		<link>/2021/02/07/hello-world/</link>
-					<comments>/2021/02/07/hello-world/#respond</comments>
+		<link>/2021/02/07/pictureascientist/</link>
+					<comments>/2021/02/07/pictureascientist/#respond</comments>
 		
 		<dc:creator><![CDATA[hwlai-root]]></dc:creator>
 		<pubDate>Sun, 07 Feb 2021 12:13:00 +0000</pubDate>
@@ -276,7 +276,7 @@
 <p><a href="https://www.pictureascientist.com/" data-type="link" data-id="https://www.pictureascientist.com/" target="_blank" rel="noreferrer noopener">Picture a Scientist official website</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/02/07/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/02/07/pictureascientist/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
