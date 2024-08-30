@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/02/android-chrome-192x192-1-150x150.png</url>
@@ -58,7 +58,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>三胞環流</strong></li>
 </ul>
 
@@ -72,7 +72,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>高空噴流</strong></li>
 </ul>
 
@@ -90,7 +90,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>平流層驟暖</strong></li>
 </ul>
 
